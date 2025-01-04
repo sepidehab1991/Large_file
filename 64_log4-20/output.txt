@@ -1,0 +1,81 @@
+Running new_binpacking.py: Iteration 1, FileSize 64G, Iteration 1, Num Servers 6, Folder Name 64_log4-20
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+they printed all
+Disk_delay: 54.42847442626953
+File size,68719476736,Delay,144.47693705558777
+Finished Iteration 1, FileSize 64G, Num Servers 6
+----------------------
+Running new_binpacking.py: Iteration 2, FileSize 64G, Iteration 2, Num Servers 6, Folder Name 64_log4-20
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+they printed all
+Disk_delay: 95.94691467285156
+File size,68719476736,Delay,186.14501070976257
+Finished Iteration 2, FileSize 64G, Num Servers 6
+----------------------
+Running new_binpacking.py: Iteration 3, FileSize 64G, Iteration 3, Num Servers 6, Folder Name 64_log4-20
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+they printed all
+Disk_delay: 99.58731985092163
+File size,68719476736,Delay,190.26483798027039
+Finished Iteration 3, FileSize 64G, Num Servers 6
+----------------------
+Running new_binpacking.py: Iteration 4, FileSize 64G, Iteration 4, Num Servers 6, Folder Name 64_log4-20
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+they printed all
+Disk_delay: 91.42786240577698
+File size,68719476736,Delay,180.46984195709229
+Finished Iteration 4, FileSize 64G, Num Servers 6
+----------------------
+Running new_binpacking.py: Iteration 5, FileSize 64G, Iteration 5, Num Servers 6, Folder Name 64_log4-20
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+they printed all
+Disk_delay: 111.34377956390381
+File size,68719476736,Delay,200.10595107078552
+Finished Iteration 5, FileSize 64G, Num Servers 6
+----------------------
+Running new_binpacking.py: Iteration 6, FileSize 64G, Iteration 6, Num Servers 6, Folder Name 64_log4-20
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+they printed all
+Disk_delay: 108.1554343700409
+File size,68719476736,Delay,196.1482527256012
+Finished Iteration 6, FileSize 64G, Num Servers 6
+----------------------
+Running new_binpacking.py: Iteration 7, FileSize 64G, Iteration 7, Num Servers 6, Folder Name 64_log4-20
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+they printed all
+Disk_delay: 93.01252007484436
+File size,68719476736,Delay,184.65954899787903
+Finished Iteration 7, FileSize 64G, Num Servers 6
+----------------------
+Running new_binpacking.py: Iteration 8, FileSize 64G, Iteration 8, Num Servers 6, Folder Name 64_log4-20
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+they printed all
+Disk_delay: 78.3974597454071
+File size,68719476736,Delay,167.3614981174469
+Finished Iteration 8, FileSize 64G, Num Servers 6
+----------------------
+Running new_binpacking.py: Iteration 9, FileSize 64G, Iteration 9, Num Servers 6, Folder Name 64_log4-20
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+they printed all
+Disk_delay: 74.62299466133118
+File size,68719476736,Delay,159.47973084449768
+Finished Iteration 9, FileSize 64G, Num Servers 6
+----------------------
+Running new_binpacking.py: Iteration 10, FileSize 64G, Iteration 10, Num Servers 6, Folder Name 64_log4-20
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+they printed all
+Disk_delay: 81.35408854484558
+File size,68719476736,Delay,170.43316221237183
+Finished Iteration 10, FileSize 64G, Num Servers 6
+----------------------
+CSV file generated: 64_log4-20/output.csv
