@@ -1,0 +1,39 @@
+Running new_binpacking.py: Iteration 1, FileSize 64G, Iteration 1, Num Servers 6, Folder Name 64_log8-10
+['http://10.132.254.2/64G', 'http://10.135.67.2/64G', 'http://10.129.200.2/64G', 'http://10.136.195.2/64G', 'http://10.138.2.2/64G', 'http://10.130.63.2/64G']
+File size: 68719476736
+Traceback (most recent call last):
+  File "/home/ubuntu/Bipacking/binpacking.py", line 167, in <module>
+    asyncio.run(main())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 47, in run
+    _cancel_all_tasks(loop)
+  File "/usr/lib/python3.10/asyncio/runners.py", line 63, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/ubuntu/Bipacking/binpacking.py", line 142, in main
+    await asyncio.gather(
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/ubuntu/Bipacking/binpacking.py", line 111, in download_file
+    data, throughput = await fetch_range(session, url, large_start_byte, large_end_byte, throughput, range_dict)
+  File "/home/ubuntu/Bipacking/binpacking.py", line 62, in fetch_range
+    data = await response.read()
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/aiohttp/client_reqrep.py", line 1214, in read
+    self._body = await self.content.read()
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/aiohttp/streams.py", line 419, in read
+    return b"".join(blocks)
+KeyboardInterrupt
