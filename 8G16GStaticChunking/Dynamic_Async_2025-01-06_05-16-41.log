@@ -1,0 +1,13 @@
+2025-01-06 05:16:41,688:INFO:File size determined as 8589934592 bytes.
+2025-01-06 05:16:41,688:INFO:Initialized chunk queue and starting download.
+2025-01-06 05:16:41,688:INFO:Client for http://10.132.254.2/8G picking up range 0-4294967295
+2025-01-06 05:16:41,688:INFO:Fetching range 0-4294967295 from http://10.132.254.2/8G
+2025-01-06 05:16:41,688:INFO:Client for http://10.135.67.2/8G picking up range 4294967296-8589934591
+2025-01-06 05:16:41,688:INFO:Fetching range 4294967296-8589934591 from http://10.135.67.2/8G
+2025-01-06 05:16:47,396:INFO:Successfully fetched range 0-4294967295 from http://10.132.254.2/8G
+2025-01-06 05:18:05,749:INFO:Successfully fetched range 4294967296-8589934591 from http://10.135.67.2/8G
+2025-01-06 05:18:05,749:INFO:All chunks downloaded, writing to disk.
+2025-01-06 05:18:17,590:INFO:File download and assembly complete.
+2025-01-06 05:18:17,591:INFO:Number_of_chunk:2
+2025-01-06 05:18:17,591:INFO:The number of server:6 Slow
+2025-01-06 05:18:17,591:INFO:Delay:95.90441703796387

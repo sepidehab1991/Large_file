@@ -1,0 +1,31 @@
+2025-01-06 05:02:17,255:INFO:File size determined as 8589934592 bytes.
+2025-01-06 05:02:17,255:INFO:Initialized chunk queue and starting download.
+2025-01-06 05:02:17,255:INFO:Client for http://10.132.254.2/8G picking up range 0-1073741823
+2025-01-06 05:02:17,255:INFO:Fetching range 0-1073741823 from http://10.132.254.2/8G
+2025-01-06 05:02:17,255:INFO:Client for http://10.135.67.2/8G picking up range 1073741824-2147483647
+2025-01-06 05:02:17,255:INFO:Fetching range 1073741824-2147483647 from http://10.135.67.2/8G
+2025-01-06 05:02:17,255:INFO:Client for http://10.129.200.2/8G picking up range 2147483648-3221225471
+2025-01-06 05:02:17,255:INFO:Fetching range 2147483648-3221225471 from http://10.129.200.2/8G
+2025-01-06 05:02:17,256:INFO:Client for http://10.136.195.2/8G picking up range 3221225472-4294967295
+2025-01-06 05:02:17,256:INFO:Fetching range 3221225472-4294967295 from http://10.136.195.2/8G
+2025-01-06 05:02:17,256:INFO:Client for http://10.138.2.2/8G picking up range 4294967296-5368709119
+2025-01-06 05:02:17,256:INFO:Fetching range 4294967296-5368709119 from http://10.138.2.2/8G
+2025-01-06 05:02:17,256:INFO:Client for http://10.130.63.2/8G picking up range 5368709120-6442450943
+2025-01-06 05:02:17,256:INFO:Fetching range 5368709120-6442450943 from http://10.130.63.2/8G
+2025-01-06 05:02:19,290:INFO:Successfully fetched range 0-1073741823 from http://10.132.254.2/8G
+2025-01-06 05:02:19,290:INFO:Client for http://10.132.254.2/8G picking up range 6442450944-7516192767
+2025-01-06 05:02:19,290:INFO:Fetching range 6442450944-7516192767 from http://10.132.254.2/8G
+2025-01-06 05:02:20,612:INFO:Successfully fetched range 6442450944-7516192767 from http://10.132.254.2/8G
+2025-01-06 05:02:20,612:INFO:Client for http://10.132.254.2/8G picking up range 7516192768-8589934591
+2025-01-06 05:02:20,612:INFO:Fetching range 7516192768-8589934591 from http://10.132.254.2/8G
+2025-01-06 05:02:21,271:INFO:Successfully fetched range 2147483648-3221225471 from http://10.129.200.2/8G
+2025-01-06 05:02:22,091:INFO:Successfully fetched range 7516192768-8589934591 from http://10.132.254.2/8G
+2025-01-06 05:02:32,572:INFO:Successfully fetched range 5368709120-6442450943 from http://10.130.63.2/8G
+2025-01-06 05:02:33,267:INFO:Successfully fetched range 4294967296-5368709119 from http://10.138.2.2/8G
+2025-01-06 05:02:46,448:INFO:Successfully fetched range 3221225472-4294967295 from http://10.136.195.2/8G
+2025-01-06 05:02:54,472:INFO:Successfully fetched range 1073741824-2147483647 from http://10.135.67.2/8G
+2025-01-06 05:02:54,473:INFO:All chunks downloaded, writing to disk.
+2025-01-06 05:03:05,860:INFO:File download and assembly complete.
+2025-01-06 05:03:05,860:INFO:Number_of_chunk:8
+2025-01-06 05:03:05,860:INFO:The number of server:6 Slow
+2025-01-06 05:03:05,860:INFO:Delay:48.60736656188965
